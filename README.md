@@ -56,8 +56,8 @@ Você será responsável por construir a próxima Landing Page que será utiliza
 
 ## Material
 
-* [Link](https://s3-sa-east-1.amazonaws.com/jogga.com.br/talentos/frontend.xd) para download do arquivo do Adobe XD do projeto.
-*[Responsividade](https://developer.mozilla.org/pt-BR/docs/Web_Development/Mobile/Design_responsivo)
+* [Link](https://s3-sa-east-1.amazonaws.com/jogga.com.br/talentos/frontend.xd) para download do arquivo do Adobe XD do projeto.  
+* [Responsividade](https://developer.mozilla.org/pt-BR/docs/desenvolvimento_web/Responsive_Web_design)
 
 ## Pontos extras
 
