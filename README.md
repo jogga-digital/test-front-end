@@ -80,5 +80,5 @@ Você será responsável por construir a próxima Landing Page que será utiliza
 * Adaptação mobile (layout responsivo)
 * Componentização e extensibilidade dos componentes Javascript
 
-**Importante**: *Usamos o mesmo teste para todos os níveis de front-end: junior, pleno ou senior, mas procuramos adequar nossa exigência na avaliação com cada um desses níveis sem, por exemplo, exigir excelência de quem está começando.*
+**Importante**: *Usamos o mesmo teste para todos os níveis de front-end: estágio, junior, pleno ou senior, mas procuramos adequar nossa exigência na avaliação com cada um desses níveis sem, por exemplo, exigir excelência de quem está começando.*
 
